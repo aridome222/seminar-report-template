@@ -1,0 +1,12 @@
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.log
+*.pdf
+!pdf/1970-01-01.pdf
+*.tex
+!src/1970-01-01.tex
+
+.DS_Store
